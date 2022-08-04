@@ -1,0 +1,8 @@
+[user]
+	name = Alex Riley
+	email = 30327239+ahriley@users.noreply.github.com
+[core]
+	excludesfile = ~/dotfiles/.gitignore_global
+	editor = code --wait
+[init]
+	defaultBranch = main
